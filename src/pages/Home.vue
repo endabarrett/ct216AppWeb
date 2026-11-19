@@ -3,7 +3,7 @@ import Navigation from '../components/Navigation.vue'
 </script>
 <template>
     <Navigation />
-    <h1>Testing first deployment</h1>
+    <h1>Testing SNYK security</h1>
     <p>This is my paragraph</p>
     <p>
         Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
